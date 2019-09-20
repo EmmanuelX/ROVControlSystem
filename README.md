@@ -1,4 +1,4 @@
-These are the programs to run our ROV. 
+Programs to run our ROV. 
 
 ROVControlBox.ino
 This file runs the controller above the water surface. The controller consists of a Joystick and a controller box with switches and potentiometers that pick up data and packs it into an array. Then, it sends the data to the ROV system underwater via Arduino serial connection.
